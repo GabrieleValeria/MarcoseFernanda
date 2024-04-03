@@ -1,0 +1,45 @@
+.home{
+  text-align: center;
+
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.iniciais{
+  padding-top:80px;
+  padding-bottom: 50px;
+  width: 80px;
+}
+
+.texto{
+  text-align: center;
+  padding: 40px;
+  color: #686F51;
+
+}
+
+.aceitam{
+  padding-top: 50px;
+ 
+}
+
+
+.casamento{
+padding-bottom: 20px;
+}
+
+
+
+
+.nomes{
+  padding-bottom: 20px;
+  color: #686F51;
+}
+
+
+
+
